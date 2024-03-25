@@ -1,0 +1,28 @@
+.todos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.todo-item {
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+.todo-app {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .todos {
+    margin-top: 20px;
+  }
+  
+  .collection-item {
+    cursor: pointer;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
